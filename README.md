@@ -21,12 +21,12 @@ Run:
 
 ## Example Output
 ```
-OS: macOS
-Kernel: Darwin 23.3.0
-Hostname: Oakys-MacBook-Pro
+OS: Apple UNIX
+Kernel: System V UNIX X.X.X.X
+Hostname: Oakys-Macintosh-Quadra
 User: oaky
 Uptime: 2 days, 4 hours, 12 mins
-Shell: /bin/zsh
+Shell: /bin/csh
 Time: 2026-02-22 14:32:10
 ```
 
