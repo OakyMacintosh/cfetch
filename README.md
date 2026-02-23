@@ -1,6 +1,6 @@
 # cfetch
 
-cfetch is a fast, modular system information utility written in ANSI C for macOS and Unix-like systems. It displays essential system info in a colorful, easy-to-read format, similar to neofetch, fastfetch, and pfetch, but without ASCII art.
+cfetch is a fast, modular system information utility written in ANSI C Unix-like systems. It displays essential system info in a colorful, easy-to-read format, similar to neofetch, fastfetch, and pfetch, but without ASCII art.
 
 ## Features
 - Modular info display (OS, kernel, hostname, username, uptime, shell, time)
