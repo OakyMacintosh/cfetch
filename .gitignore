@@ -1,0 +1,15 @@
+a.out
+cfetch
+*.o
+*.so
+*.dylib
+*.dll
+*.exe
+*.log
+*.tmp
+*.bak
+.DS_Store
+*.swp
+*.swo
+*.swn
+*.tmp
