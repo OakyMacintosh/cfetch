@@ -33,11 +33,4 @@ Time: 2026-02-22 14:32:10
 ## License
 BSD License
 
-## Author
-OakyMacintosh
 
-## GitHub
-https://github.com/OakyMacintosh/cfetch
-
-## Issues
-https://github.com/OakyMacintosh/cfetch/issues
